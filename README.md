@@ -30,3 +30,8 @@ Now, get on the worldwide web and surf to your GitHub repository. Towards the to
 
 ![Click on your branches](img/branches-button.png)  
 **Figure 05.** Click on branches button
+
+You will see a list of branches in your repository with some red trashcan icon to the right. Click on the trashcan next to the branch you want to delete.
+
+![Delete your branches](img/delete-branch.png)  
+**Figure 06.** Deleting a branch
