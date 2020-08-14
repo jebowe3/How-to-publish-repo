@@ -15,3 +15,15 @@ Return to the "Current Branch" tab. At the bottom, you should see an option for 
 
 ![Merge a branch into the master](img/merge-to-master.png)  
 **Figure 02.** Merge a branch into the master with GitHub Desktop
+
+Now, press the button that says "Merge branch-name into master."
+
+![Click the button](img/merge-new-stuff.png)  
+**Figure 03.** Make it happen
+
+Open and resolve any conflicts in Atom and commit the merge.
+
+![Commit the merge](img/commit-merge.png)  
+**Figure 04.** Commit the merge
+
+Now, you can 
