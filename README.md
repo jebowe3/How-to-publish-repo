@@ -26,4 +26,7 @@ Open and resolve any conflicts in Atom and commit the merge.
 ![Commit the merge](img/commit-merge.png)  
 **Figure 04.** Commit the merge
 
-Now, you can 
+Now, get on the worldwide web and surf to your GitHub repository. Towards the top, you should be able to see a button that says "# branches." Click this.
+
+![Click on your branches](img/branches-button.png)  
+**Figure 05.** Click on branches button
