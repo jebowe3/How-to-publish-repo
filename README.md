@@ -54,3 +54,22 @@ Once in the Danger Zone, find and click "Change visibility."
 
 ![Visibility](img/change-viz.png)  
 **Figure 09.** Change visibility
+
+You will then see a warning. In this dialogue box, choose "Make public," type the name of your repo in the text box, and click "I understand..." at the bottom.
+
+![Warning](img/warning.png)  
+**Figure 10.** Warning
+
+Now you are ready to publish a page.
+
+## Step 3: Publishing to GitHub Pages
+
+Remaining on the Settings options page, locate "GitHub Pages" and choose "master" under "Source." To the right of this, click "Save."
+
+![Publishing](img/publish-page.png)  
+**Figure 11.** Publish to GitHub Pages
+
+Once you click "Save," scroll back down to "GitHub Pages." You should now see a link next to "Your site is ready to be published at..." If nothing appears after you click the link, wait a few minutes. It takes a little while for your page to be ready. Once it is, you can share and embed your map as your please.
+
+![The link](img/all-ready.png)  
+**Figure 12.** The link
