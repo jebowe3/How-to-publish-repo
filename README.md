@@ -10,3 +10,5 @@ The first step is to open GitHub Desktop. Select the master branch in the "Curre
 
 ![Change branch to master](img/select-branch.png)  
 **Figure 01.** Change branch to master with GitHub Desktop
+
+Return to the "Current Branch" tab. At the bottom, you should see an option for "Choose a branch to merge into master." Click this and select the branch containing the final (or most up to date) version of your project.
